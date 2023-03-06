@@ -142,8 +142,8 @@ public class UserDAOImpl implements IUserDAO {
             if (rs.next()) {
                 user = new User(
                         rs.getInt("USERID"),
-                        rs.getString("FIRSTNAME"),
                         rs.getString("LASTNAME"),
+                        rs.getString("FIRSTNAME"),
                         rs.getString("EMAIL"),
                         rs.getString("POSTCODE")
                 );
