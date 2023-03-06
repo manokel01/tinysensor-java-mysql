@@ -1,6 +1,5 @@
 package com.manokel.tinysensor.javamysql;
 
-import com.formdev.flatlaf.intellijthemes.FlatLightFlatIJTheme;
 import com.manokel.tinysensor.javamysql.controllerview.*;
 
 import javax.swing.*;

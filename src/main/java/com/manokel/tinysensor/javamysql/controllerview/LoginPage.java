@@ -1,7 +1,5 @@
 package com.manokel.tinysensor.javamysql.controllerview;
 
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -19,7 +17,6 @@ import java.awt.Font;
 import javax.swing.JTextField;
 import javax.swing.JSeparator;
 import javax.swing.JButton;
-import java.awt.Toolkit;
 import javax.swing.JPasswordField;
 import java.awt.event.ActionListener;
 import java.sql.Connection;
